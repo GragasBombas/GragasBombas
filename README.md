@@ -1,5 +1,8 @@
 <h1 align="center">💣 BOMBA 💣</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8de25eb4-632f-49a9-befe-3900d0c7b813" alt="Image" width="400">
+  <!-- GIF cliquable → ouvre YouTube -->
+  <a href="https://www.youtube.com/watch?v=C7lzrUwAlG4" target="_blank">
+    <img src="https://c.tenor.com/7qgbf50XpsEAAAAd/tenor.gif" alt="Gragas Dance GIF" width="400">
+  </a>
 </p>
